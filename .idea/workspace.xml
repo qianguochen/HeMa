@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf28d704-abbe-4ed0-adce-da975fd1462f" name="Changes" comment="add project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3432dbf3-7808-478e-a677-b653a5856fe5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven-repositorty" />
+        <option name="mavenHome" value="E:/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RHGbSW6d4TSkh71VAp01CYEOZF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/25137/Desktop/HeMa",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.5011494",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaWorkSpace\HeMa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GTPTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.App" />
+      <module name="HeMa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateTrainSetAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.CreateTrainSetAPP" />
+      <module name="HeMa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GTPTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.GTPTest" />
+      <module name="HeMa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConcurrent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.TestConcurrent" />
+      <module name="HeMa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GTPTest" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.CreateTrainSetAPP" />
+        <item itemvalue="Application.TestConcurrent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf28d704-abbe-4ed0-adce-da975fd1462f" name="Changes" comment="" />
+      <created>1686899665367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686899665367</updated>
+      <workItem from="1686899666959" duration="1158000" />
+      <workItem from="1686900837060" duration="220000" />
+      <workItem from="1686901067507" duration="535000" />
+      <workItem from="1686901624216" duration="6507000" />
+      <workItem from="1688521402544" duration="84000" />
+      <workItem from="1688522787337" duration="777000" />
+      <workItem from="1691461087070" duration="35000" />
+      <workItem from="1694135750048" duration="700000" />
+      <workItem from="1694137476025" duration="1164000" />
+      <workItem from="1694488498630" duration="4145000" />
+      <workItem from="1694658412913" duration="1184000" />
+      <workItem from="1695196263652" duration="34000" />
+      <workItem from="1696663955027" duration="69000" />
+      <workItem from="1696811494946" duration="3137000" />
+      <workItem from="1696899051954" duration="16000" />
+      <workItem from="1698042473619" duration="4481000" />
+      <workItem from="1699837351990" duration="1220000" />
+      <workItem from="1702625953746" duration="292000" />
+      <workItem from="1702870739940" duration="10813000" />
+      <workItem from="1702966705596" duration="8903000" />
+      <workItem from="1703038557782" duration="3827000" />
+      <workItem from="1707194358644" duration="51000" />
+      <workItem from="1707194418952" duration="703000" />
+      <workItem from="1710318749827" duration="1334000" />
+      <workItem from="1710378095856" duration="3421000" />
+      <workItem from="1710381649108" duration="1424000" />
+      <workItem from="1710383083804" duration="404000" />
+      <workItem from="1710383573268" duration="416000" />
+      <workItem from="1710383999306" duration="4780000" />
+      <workItem from="1710400319486" duration="372000" />
+      <workItem from="1710400701181" duration="620000" />
+      <workItem from="1710401336476" duration="19000" />
+      <workItem from="1710401388291" duration="236000" />
+      <workItem from="1710401666304" duration="1352000" />
+      <workItem from="1710403062852" duration="151000" />
+    </task>
+    <task id="LOCAL-00001" summary="delete data files">
+      <created>1710381112915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710381112915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix data">
+      <created>1710382868586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710382868586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add readme">
+      <created>1710399792696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710399792696</updated>
+    </task>
+    <task id="LOCAL-00004" summary="alter readme">
+      <created>1710400347150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710400347150</updated>
+    </task>
+    <task id="LOCAL-00005" summary="alter readme 2">
+      <created>1710401074541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710401074541</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="19c00764-489e-4ca9-ac66-d7bfc0b60df8">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="delete data files" />
+    <MESSAGE value="fix data" />
+    <MESSAGE value="add readme" />
+    <MESSAGE value="alter readme" />
+    <MESSAGE value="alter readme 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="alter readme 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/GTPTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
